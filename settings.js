@@ -104,12 +104,13 @@ global.mess = {
     private: '✉️✏️ _Features Used Only For Private Chat!_',
     bot: '✉️✏️ _This Feature Is Only For Bot_',
     wait: '✉️✏️ _Processing Please Wait..._',
+    antifake: '✉️✏️ _Fake Number Not Alowed..._',
     linkm: '📧✏️ _Where is the link?_',
     error: '✉️🤕 ```Error!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    goodbye: 'Ek Bhdwa left leke bhaga, bye bye, bhadwe.',
+    tag: 'Kaise hain aap sab, hii',
+    welcome: 'Appka Dil se wellcome he dost
 }
     global.limitawal = {
     premium: "Infinity",
