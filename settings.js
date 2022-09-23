@@ -36,16 +36,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['917827901590'] //ur owner number
+global.vcardowner = ['97696787230'] //ur owner number
 global.ownername = "KING BIHARI JIJA" //ur owner name
 global.ytname = "YT: TGM tatto ke maa ka ref" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Patna, bihar, India" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['917827901590']
-global.ownertag = '917827901590' //ur tag number
-global.botnumber = '917827901590' //Add your Bot Number For Log
+global.owner = ['97696787230']
+global.ownertag = '97696787230' //ur tag number
+global.botnumber = '97696787230' //Add your Bot Number For Log
 global.botname = 'KING-BIHAR JIJA' //ur bot name
 global.ig = "https://youtu.be/wOFL_KF6t2k" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/oNHv7kLQvpc" //ur website to be displayed
@@ -54,7 +54,7 @@ global.linkz = 'https://youtube.com/channel/UCh4s8NNUuqCkLQ6e2PsHkwQ'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "King-Bihari jija" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.author = "KING BIHARI" //ur sticker watermark author
 global.footer = "® TERA-BIHARI JIJA"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['917827901590'] //ADD YOU NUMBER
+global.premium = ['97696787230'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
